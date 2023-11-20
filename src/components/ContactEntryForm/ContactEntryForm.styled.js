@@ -29,7 +29,7 @@ export const StyledForm = styled(Form)`
 
   input {
     padding: 8px;
-    width: 100%;
+    width: 250px;
     font-size: 14px;
   }
 
